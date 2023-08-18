@@ -16,26 +16,30 @@ In this LA projekt, as already mentioned above, i will test what i've learned in
 
 ### 1.2 User Stories
 
-| US-№ | liability | Type  | Explenation                       |
+| US-№ | Liability | Type  | Explenation                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 |1    |Must                 |Functional      | As the user, i would like to see in this projekt, the computer generating and saving a number between 1 and 100 |
 |2    |Must                 |Functional      | As the user, i would like to see in this projekt, the ability for me to guess the randomly generated number. |
 |3    |Must                 |Functional      | As the user, i would like to see in this projekt, the computer giving hints to the user, for example: "The number you chose was too high/low", or "Congratulations, you guessed the number correctly".  |
-|4    |Must                 |Functional      | As the user, i would like to see in this projekt, the number of triees it took the user to choose correctly.  |
+|4    |Must                 |Functional      | As the user, i would like to see in this projekt, the number of tries it took the user to choose correctly.  |
 |5    |Must                 |Functional      | As the user, i would like to see in this projekt, a level of security, as in being able to counter error inputs. |
 |6    |Can                 |Quality      | As the user, i would like to see in this projekt, a highscore of all the tries, to see which one was the best. |
-|7    |Can                 |Quality      | As the user, i would like to see in this projekt, the computer saving a number between 1 and 100 |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+|7    |Can                 |Quality      | As the user, i would like to see in this projekt, a 1 vs 1 player mode, where the first one to guess the number correctly wins. |
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| TC-№ | Starting Position | Input | Expected Output |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+|1.1  |Program has been started              |-         |"Number between 1 and 100 is generated"                   |
+|2.1  |Program has been started              |11         |"The number you guessed is correct, great job!"                   |
+|3.1  |Program has been started              |10         |"The number you guessed is incorrect, try higher!"                   |
+|3.2  |Program has been started              |12         |"The number you guessed is incorrect, try lower!"                   |
+|4.1  |The hidden number has been found              |-         |"It took you 3 tries to find the hidden number!"                   |
+|5.1  |Program has been started              |1000         |"The number you wrote is not between 1 and 100, please use numbers between 1 and 100 only. Try again!"          |
+|5.2  |Program has been started              |ten         |"Please restrain from using letters, only numbers between 1 and 100. Try again!"                   |
+|6.1  |The hidden number has been found              |-         |*Highscore is shown*                   |
+|7.1  |Program has been started              |-         |"Please choose your Team name"                   |
+|7.2  |Program has been started              |*Team Red* 11         |"The number you guessed is correct. Team red wins this match!"                   |
 
 ### 1.4 Diagramme
 
