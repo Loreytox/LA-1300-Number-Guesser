@@ -2,7 +2,7 @@
 In this LA projekt, i'm going to program a number guesser with my newly aquired knowledge.
 By: Lorenzo Lai
 
-| Datum | Version | Zusammenfassung                                              |
+| Date | Version | summary                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |18.08.2023       | 0.0.1   | Today, i researched information about OOP and have started working on the projekt in C# |
 |       | ...     |                                                              |
@@ -47,10 +47,18 @@ In this LA projekt, as already mentioned above, i will test what i've learned in
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| AP-№ | Date | Responsible | summary | planned time |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 18.08.23      |  Lorenzo Lai         |  The program is able to generate a number between 1 and 100.            |  5'             |
+| 2.A  | 25.08.23      | Lorenzo Lai          | The program is able to tell, if the guessed number was correct.             | 15'              |
+| 3.A  | 25.08.23      |  Lorenzo Lai         | The program is able to detect, if the guessed number is too low.              |  15'             |
+| 3.B  |  25.08.23     | Lorenzo Lai          | The program is able to tell, if the guessed number is too high.              |  15'             |
+| 4.A  |  25.08.23     |  Lorenzo Lai         |  The program is able to tell you how many tries it took to find the hidden number.            | 30'              |
+| 5.A  |  25.08.23     |  Lorenzo Lai         |  The program is able to detect if the guessed number was outside of the generated numbers range.            |  20'             |
+| 5.B  |  25.08.23     |  Lorenzo Lai         | The program is able to detect, if the user did not input a number.             | 20'              |
+| 6.A  |  1.09.23     |  Lorenzo Lai         |  The program is able to save past sessions and output a highscore.            |  45' - 80'             |
+| 7.A  |  1.09.23     |  Lorenzo Lai         |  The program will ask the user to input the Teams name.            |  45'             |
+| 7.B  | 1.09.23      | Lorenzo Lai          |  The program is able to understand, which team won the session.            |    25'           |
 
 Total: 
 
