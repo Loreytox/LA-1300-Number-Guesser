@@ -57,7 +57,7 @@ In this LA projekt, as already mentioned above, i will test what i've learned in
 | 5.A  |  25.08.23     |  Lorenzo Lai         |  The program is able to detect if the guessed number was outside of the generated numbers range.            |  20'             |
 | 5.B  |  25.08.23     |  Lorenzo Lai         | The program is able to detect, if the user did not input a number.             | 20'              |
 | 6.A  |  1.09.23     |  Lorenzo Lai         |  The program is able to save past sessions and output a highscore.            |  45' - 80'             |
-| 7.A  |  1.09.23     |  Lorenzo Lai         |  The program will ask the user to input the Teams name.            |  45'             |
+| 7.A  |  1.09.23     |  Lorenzo Lai         |  The program will ask the user to input the teams name.            |  45'             |
 | 7.B  | 1.09.23      | Lorenzo Lai          |  The program is able to understand, which team won the session.            |    25'           |
 
 Total: 
