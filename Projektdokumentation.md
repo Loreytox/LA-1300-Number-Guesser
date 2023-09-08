@@ -4,16 +4,16 @@ By: Lorenzo Lai
 
 | Date | Version | Summary                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|18.08.2023       | 0.0.1   | Today, i researched information about OOP and have started working on the projekt in C#. |
+|18.08.2023       | 0.0.1   | Today, i researched information about OOP and started working on the project in C#.|
 |25.08.2023       | 0.0.2   | Today, i was able to implement most of my user stories in the code, but there are still some minor problems that i have to solve.|
-|1.09.2023        | 0.1.0   | Today, i solved some of the minor problems of last time andd could implement some new features.|
-|8.09.2023        |1.0.0    | Today, i finished the project. Sadly i couldn't implement one of the planned features, but i've added some newer minor ones (quality of life).|
+|1.09.2023        | 0.1.0   | Today, i solved some of the minor problems from last time and could implement some new features.|
+|8.09.2023        | 1.0.0   | Today, i finished the project. Sadly, i couldn't implement one of the planned features, but i added some newer minor ones for quality of life.|
 
 ## 1 Informieren
 
-### 1.1 My Projekt
+### 1.1 My Project
 
-In this LA projekt, as already mentioned above, i will test what i've learned in these last days and program with the help of C# a number guesser with a variety of features and functions.
+In this LA project, as already mentioned above, I will test what I've learned in these last days and program a number guesser with a variety of features and functions using C#.
 
 ### 1.2 User Stories
 
@@ -66,7 +66,7 @@ Total:
 
 ## 3 Entscheiden
 
-I chose these user storie because they make sense to me to implement into the program.
+I chose these user stories, because they make sense to me to implement into the program.
 
 ## 4 Realisieren
 
