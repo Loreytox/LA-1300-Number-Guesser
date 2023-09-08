@@ -108,7 +108,3 @@ I chose these user stories, because they make sense to me to implement into the 
 | 7.2  |  1.09.2023     |    OK      |   Lorenzo     |
 
 Everything was implemented without too much trouble, but i couldn't implement 6.1. I couldn't bring myself to find a solution and didn't want to copy it from somewhere else.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
