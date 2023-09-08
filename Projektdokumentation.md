@@ -2,11 +2,12 @@
 In this LA projekt, i'm going to program a number guesser with my newly aquired knowledge.
 By: Lorenzo Lai
 
-| Date | Version | summary                                              |
+| Date | Version | Summary                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|18.08.2023       | 0.0.1   | Today, i researched information about OOP and have started working on the projekt in C# |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|18.08.2023       | 0.0.1   | Today, i researched information about OOP and have started working on the projekt in C#. |
+|25.08.2023       | 0.0.2   | Today, i was able to implement most of my user stories in the code, but there are still some minor problems that i have to solve.|
+|1.09.2023        | 0.1.0   | Today, i solved some of the minor problems of last time andd could implement some new features.|
+|8.09.2023        |1.0.0    | Today, i finished the project. Sadly i couldn't implement one of the planned features, but i've added some newer minor ones (quality of life).|
 
 ## 1 Informieren
 
@@ -47,7 +48,7 @@ In this LA projekt, as already mentioned above, i will test what i've learned in
 
 ## 2 Planen
 
-| AP-№ | Date | Responsible | summary | planned time |
+| AP-№ | Date | Responsible | Summary | Planned time |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 18.08.23      |  Lorenzo Lai         |  The program is able to generate a number between 1 and 100.            |  5'             |
 | 2.A  | 25.08.23      | Lorenzo Lai          | The program is able to tell, if the guessed number was correct.             | 15'              |
@@ -65,36 +66,41 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+I chose these user storie because they make sense to me to implement into the program.
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| AP-№ | Date | Responsible | Planned time | Actual time |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+| 1.A  |  18.08.2023     |  Lorenzo        |    5'            |       10'-15'       |
+| 2.A  |  18.08.2023     |  Lorenzo        |    15'           |       5'            |
+| 3.A  |  18.08.2023     |  Lorenzo        |    15'           |       10'           |
+| 3.B  |  18.08.2023     |  Lorenzo        |     15'          |       10'           |
+| 4.A  |  25.08.2023     |  Lorenzo        |    30'           |      30'             |
+| 5.A  |  25.08.2023     |  Lorenzo        |    20'           |      10'             |
+| 5.B  |  25.08.2023     |  Lorenzo        |    20'           |      15'             |
+| 6.A  |  1.09.2023      |  Lorenzo        |    45'-80'       |        80'+ (not finished)           |
+| 7.A  |  1.09.2023      |  Lorenzo        |     45'          |       60'            |
+| 7.B  |  1.09.2023      |  Lorenzo        |      25'         |       80'           |
 
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
+| TC-№ | Date | Result | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  1.09.2023     |    OK      |   Lorenzo     |
+| 2.1  |  1.09.2023     |    OK      |   Lorenzo     |
+| 3.1  |  1.09.2023     |    OK      |   Lorenzo     |
+| 3.2  |  1.09.2023     |    OK      |   Lorenzo     |
+| 4.1  |  1.09.2023     |    OK      |   Lorenzo     |
+| 5.1  |  1.09.2023     |    OK      |   Lorenzo     |
+| 5.2  |  1.09.2023     |    OK      |   Lorenzo     |
+| 6.1  |  1.09.2023     |    NOK     |   Lorenzo     |
+| 7.1  |  1.09.2023     |    OK      |   Lorenzo     |
+| 7.2  |  1.09.2023     |    OK      |   Lorenzo     |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+Everything was implemented without too much trouble, but i couldn't implement 6.1. I couldn't bring myself to find a solution and didn't want to copy it from somewhere else.
 
 ## 6 Auswerten
 
