@@ -44,7 +44,14 @@ In this LA project, as already mentioned above, I will test what I've learned in
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+PAP:
+![Number Guesser_Main](https://github.com/Loreytox/LA-1300-Number-Guesser/assets/110893594/64b29c4d-a147-4900-8b56-bf1d4ed8d1d2)
+
+![Team](https://github.com/Loreytox/LA-1300-Number-Guesser/assets/110893594/e594a766-0501-4dcc-a9fd-da0adae7a0db)
+
+![Validator](https://github.com/Loreytox/LA-1300-Number-Guesser/assets/110893594/568b75da-079b-43cd-b686-88cc7f580d5f)
+
+![WinWin](https://github.com/Loreytox/LA-1300-Number-Guesser/assets/110893594/5c925fa2-f2f0-4681-bf24-ec305a5b4032)
 
 ## 2 Planen
 
