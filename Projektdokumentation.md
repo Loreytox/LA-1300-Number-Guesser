@@ -43,8 +43,9 @@ In this LA project, as already mentioned above, I will test what I've learned in
 |7.2  |Program has been started              |*Team Red* 11         |"The number you guessed is correct. Team red wins this match!"                   |
 
 ### 1.4 Diagramme
-
 PAP:
+
+
 ![Number Guesser_Main](https://github.com/Loreytox/LA-1300-Number-Guesser/assets/110893594/64b29c4d-a147-4900-8b56-bf1d4ed8d1d2)
 
 ![Team](https://github.com/Loreytox/LA-1300-Number-Guesser/assets/110893594/e594a766-0501-4dcc-a9fd-da0adae7a0db)
